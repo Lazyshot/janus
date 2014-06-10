@@ -117,6 +117,9 @@
 [submodule "janus/vim/langs/rdoc"]
 	path = janus/vim/langs/rdoc
 	url = https://github.com/depuracao/vim-rdoc.git
+[submodule "janus/vim/langs/golang"]
+	path = janus/vim/langs/golang
+	url = https://github.com/fatih/vim-go.git
 
 # Tools
 [submodule "janus/vim/tools/unimpaired"]
