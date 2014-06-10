@@ -111,9 +111,6 @@
 [submodule "janus/vim/langs/elixir"]
 	path = janus/vim/langs/elixir
 	url = https://github.com/elixir-lang/vim-elixir.git
-[submodule "janus/vim/langs/golang"]
-	path = janus/vim/langs/golang
-	url = https://github.com/jnwhiteh/vim-golang.git
 [submodule "janus/vim/langs/liquid"]
 	path = janus/vim/langs/liquid
 	url = https://github.com/tpope/vim-liquid.git
